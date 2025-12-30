@@ -1,4 +1,4 @@
 .env
-.myenv
-.data
-.__pycache__
+/myenv/
+/data/
+/__pycache__/
